@@ -1,0 +1,77 @@
+payload:
+  # Ozan
+  - DOMAIN-SUFFIX,ozan.com,Proxy
+  - DOMAIN,op-prod-tr.ozan.com,Proxy
+  - USER-AGENT,ozan*,Proxy
+
+  # Papara
+  - DOMAIN-SUFFIX,papara.com,Proxy
+  - DOMAIN-KEYWORD,papara,Proxy
+
+  # Fups
+  - DOMAIN-SUFFIX,fups.com,Proxy
+  - DOMAIN-KEYWORD,fups,Proxy
+
+  # Oyunfor
+  - DOMAIN-SUFFIX,isbank.com.tr,Proxy
+  - DOMAIN,node2.oyunfor.com,Proxy
+  - DOMAIN,vpos3.isbank.com.tr,Proxy
+  - DOMAIN,spos.isbank.com.tr,Proxy
+  - USER-AGENT,*oyunfor*,Proxy
+
+  # EPIN
+  - DOMAIN-SUFFIX,epin-cdn,Proxy
+  - DOMAIN-SUFFIX,epin-static,Proxy
+  - DOMAIN,epin-cdn.s3.eu-central-1.amazonaws.com,Proxy
+  - DOMAIN,epin-static.ams3.digitaloceanspaces.com,Proxy
+  - USER-AGENT,*epin*,Proxy
+
+  # Turgame
+  - USER-AGENT,*turgame*,Proxy
+
+  # iyzico
+  - DOMAIN-SUFFIX,iyzico.com,Proxy
+  - DOMAIN-SUFFIX,iyzipay.com,Proxy
+  - DOMAIN,static.iyzipay.com,Proxy
+  - DOMAIN,countly.iyzico.com,Proxy
+  - DOMAIN,lb.iyzico.com,Proxy
+  - USER-AGENT,*iyzico*,Proxy
+  - USER-AGENT,*iyzipay*,Proxy
+
+  # FastPay
+  - USER-AGENT,*fastpay*,Proxy
+
+  # GPay
+  - USER-AGENT,*gpay*,Proxy
+
+  # PayTR
+  - USER-AGENT,*paytr*,Proxy
+  - DOMAIN,va.tawk.to,Proxy
+
+  # Other
+  - DOMAIN-SUFFIX,com.tr,Proxy
+  - DOMAIN,www.paytr.com,Proxy
+  - DOMAIN-SUFFIX,oyunfor.com,Proxy
+  - DOMAIN-SUFFIX,paytr.com,Proxy
+  - DOMAIN,oyunfor.com,Proxy
+  - DOMAIN,cdn.oyunfor.com,Proxy
+  - DOMAIN-SUFFIX,cdn.oyunfor.com,Proxy
+  - DOMAIN,www.epin.com.tr,Proxy
+  - DOMAIN,pos.payby.me,Proxy
+  - DOMAIN-SUFFIX,pos.payby.me,Proxy
+  - DOMAIN,*.denizbank.com,Proxy
+  - DOMAIN-SUFFIX,denizbank.com,Proxy
+  - DOMAIN,fastpay.com.tr,Proxy
+  - DOMAIN-SUFFIX,fastpay.com.tr,Proxy
+  - DOMAIN,iyzipay.com,Proxy
+  - DOMAIN,*.iyzipay.com,Proxy
+  - DOMAIN,api.iyzipay.com,Proxy
+  - DOMAIN,isbank.com.tr,Proxy
+  - DOMAIN,*.isbank.com.tr,Proxy
+  - DOMAIN,vpos2.isbank.com.tr,Proxy
+  - DOMAIN,aacsw.3ds.verifiedbyvisa.com,Proxy
+  - DOMAIN,3d.payten.com.tr,Proxy
+  - DOMAIN,gpay.com.tr,Proxy
+  - DOMAIN-SUFFIX,gpay.com.tr,Proxy
+  - DOMAIN,turgame.com,Proxy
+  - DOMAIN-SUFFIX,turgame.com,Proxy
