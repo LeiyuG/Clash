@@ -2,7 +2,6 @@ payload:
   # Ozan
   - DOMAIN-SUFFIX,ozan.com,Proxy
   - DOMAIN,op-prod-tr.ozan.com,Proxy
-  - USER-AGENT,ozan*,Proxy
 
   # Papara
   - DOMAIN-SUFFIX,papara.com,Proxy
@@ -17,17 +16,12 @@ payload:
   - DOMAIN,node2.oyunfor.com,Proxy
   - DOMAIN,vpos3.isbank.com.tr,Proxy
   - DOMAIN,spos.isbank.com.tr,Proxy
-  - USER-AGENT,*oyunfor*,Proxy
 
   # EPIN
   - DOMAIN-SUFFIX,epin-cdn,Proxy
   - DOMAIN-SUFFIX,epin-static,Proxy
   - DOMAIN,epin-cdn.s3.eu-central-1.amazonaws.com,Proxy
   - DOMAIN,epin-static.ams3.digitaloceanspaces.com,Proxy
-  - USER-AGENT,*epin*,Proxy
-
-  # Turgame
-  - USER-AGENT,*turgame*,Proxy
 
   # iyzico
   - DOMAIN-SUFFIX,iyzico.com,Proxy
@@ -35,17 +29,8 @@ payload:
   - DOMAIN,static.iyzipay.com,Proxy
   - DOMAIN,countly.iyzico.com,Proxy
   - DOMAIN,lb.iyzico.com,Proxy
-  - USER-AGENT,*iyzico*,Proxy
-  - USER-AGENT,*iyzipay*,Proxy
-
-  # FastPay
-  - USER-AGENT,*fastpay*,Proxy
-
-  # GPay
-  - USER-AGENT,*gpay*,Proxy
 
   # PayTR
-  - USER-AGENT,*paytr*,Proxy
   - DOMAIN,va.tawk.to,Proxy
 
   # Other
