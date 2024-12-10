@@ -1,12 +1,6 @@
 # NAME: Microsoft
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:14:51
-# DOMAIN: 1
-# DOMAIN-KEYWORD: 4
-# DOMAIN-SUFFIX: 662
-# PROCESS-NAME: 2
-# TOTAL: 669
+# UPDATED: 2024-12-10
+# TOTAL: 670
 payload:
   - DOMAIN,vsmarketplacebadge.apphb.com
   - DOMAIN-SUFFIX,clarity.ms
