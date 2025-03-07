@@ -20,13 +20,13 @@ jobs:
 
       - name: Convert .list to Clash Ruleset
         run: |
-          cd Clash  # 进入 Clash 目录
-          python convert.py  # 运行转换脚本
+          cd Clash  # 进入 Clash 目录（✅）
+          python convert.py  # 运行转换脚本（✅）
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add Clash/clash_rules/
+          git add Clash/*.yaml  # 添加转换后的 Clash 规则（✅ 直接存放在 Clash 目录）
           git commit -m "Converted Surge .list to Clash ruleset" || echo "No changes to commit"
           git push
