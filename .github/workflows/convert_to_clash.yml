@@ -10,9 +10,6 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Ensure Clash directory exists
-        run: mkdir -p Clash  # ✅ 确保 Clash 目录存在
-
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -21,16 +18,16 @@ jobs:
       - name: Install Dependencies
         run: pip install pyyaml
 
+      - name: List current directory (for debugging)
+        run: ls -la  # ✅ 显示当前目录结构
+
       - name: Convert .list to Clash Ruleset
-        run: |
-          ls -la  # ✅ 调试：列出当前目录结构
-          cd Clash  # ✅ 进入 Clash 目录（确保它存在）
-          python convert.py  # 运行转换脚本
+        run: python convert.py  # ✅ 直接运行，不要 `cd Clash`
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add Clash/*.yaml  # 添加转换后的 Clash 规则
+          git add Clash/*.yaml  # ✅ 确保提交 Clash 目录下的 .yaml 文件
           git commit -m "Converted Surge .list to Clash ruleset" || echo "No changes to commit"
           git push
