@@ -1,7 +1,10 @@
 payload:
   # Ozan
   - DOMAIN-SUFFIX,ozan.com
-  - DOMAIN,op-prod-tr.ozan.com
+  - DOMAIN-KEYWORD,ozan
+
+  # Paycell
+  - DOMAIN-SUFFIX,paycell.com.tr
 
   # Papara
   - DOMAIN-SUFFIX,papara.com
@@ -11,52 +14,107 @@ payload:
   - DOMAIN-SUFFIX,fups.com
   - DOMAIN-KEYWORD,fups
 
-  # Oyunfor
-  - DOMAIN-SUFFIX,isbank.com.tr
-  - DOMAIN,node2.oyunfor.com
-  - DOMAIN,vpos3.isbank.com.tr
-  - DOMAIN,spos.isbank.com.tr
+  # Moneytolia
+  - DOMAIN-SUFFIX,moneytolia.com
+  - DOMAIN-KEYWORD,moneytolia
 
-  # EPIN
-  - DOMAIN-SUFFIX,epin-cdn
-  - DOMAIN-SUFFIX,epin-static
+  # Oyunfor and related domains
+  - DOMAIN-SUFFIX,oyunfor.com
+
+  # EPIN services
+  - DOMAIN-SUFFIX,epin.com.tr
+  - DOMAIN,www.epin.com.tr
   - DOMAIN,epin-cdn.s3.eu-central-1.amazonaws.com
   - DOMAIN,epin-static.ams3.digitaloceanspaces.com
+  - DOMAIN,inter-vpos.com.tr
+  - DOMAIN-KEYWORD,epin-cdn
+  - DOMAIN-KEYWORD,epin-static
 
-  # iyzico
-  - DOMAIN-SUFFIX,iyzico.com
-  - DOMAIN-SUFFIX,iyzipay.com
+  # Turan
+  - DOMAIN-SUFFIX,turan.app
+  - DOMAIN-KEYWORD,turan
+
+  # Turkcell
+  - DOMAIN-SUFFIX,turkcell.com.tr
+  - DOMAIN-SUFFIX,eturkcell.netmera.com
+
+  # Turgame
+  - DOMAIN-SUFFIX,turgame.com
+
+  # iyzico and related services
   - DOMAIN,static.iyzipay.com
   - DOMAIN,countly.iyzico.com
   - DOMAIN,lb.iyzico.com
+  - DOMAIN-KEYWORD,iyzipay
+  - DOMAIN-SUFFIX,iyzipay.com
+  - DOMAIN-KEYWORD,iyzico
+  - DOMAIN-SUFFIX,iyzico.com
 
-  # PayTR
-  - DOMAIN,va.tawk.to
+  # Popypara
+  - DOMAIN-SUFFIX,popypara.com
+  - DOMAIN-KEYWORD,popypara
 
-  # Other
-  - DOMAIN-SUFFIX,com.tr
-  - DOMAIN,www.paytr.com
-  - DOMAIN-SUFFIX,oyunfor.com
-  - DOMAIN-SUFFIX,paytr.com
-  - DOMAIN,oyunfor.com
-  - DOMAIN,cdn.oyunfor.com
-  - DOMAIN-SUFFIX,cdn.oyunfor.com
-  - DOMAIN,www.epin.com.tr
-  - DOMAIN,pos.payby.me
-  - DOMAIN-SUFFIX,pos.payby.me
-  - DOMAIN,*.denizbank.com
-  - DOMAIN-SUFFIX,denizbank.com
+  # ininal
+  - DOMAIN-SUFFIX,ininal.com
+  - DOMAIN-KEYWORD,ininal
+
+  # Sipay
+  - DOMAIN-SUFFIX,walletgate.io
+  - DOMAIN-KEYWORD,sipay
+
+  # Uption
+  - DOMAIN,analytics.tr.adjust.com
+  - DOMAIN-SUFFIX,netmera.com
+  - DOMAIN-SUFFIX,aktifbank.com.tr
+
+  # Zeepay
+  - DOMAIN-SUFFIX,zeepay.com.tr
+  - DOMAIN-KEYWORD,zeepay
+
+  # Fastpay
   - DOMAIN,fastpay.com.tr
   - DOMAIN-SUFFIX,fastpay.com.tr
+
+  # iyzipay API and services
   - DOMAIN,iyzipay.com
-  - DOMAIN,*.iyzipay.com
+  - DOMAIN-SUFFIX,iyzipay.com
   - DOMAIN,api.iyzipay.com
+  - DOMAIN-SUFFIX,api.iyzipay.com
+
+  # Isbank and related services
   - DOMAIN,isbank.com.tr
-  - DOMAIN,*.isbank.com.tr
+  - DOMAIN-SUFFIX,isbank.com.tr
   - DOMAIN,vpos2.isbank.com.tr
+  - DOMAIN-SUFFIX,vpos2.isbank.com.tr
+
+  # Verified by Visa 3D Secure
   - DOMAIN,aacsw.3ds.verifiedbyvisa.com
+  - DOMAIN-SUFFIX,aacsw.3ds.verifiedbyvisa.com
+
+  # Payten 3D Secure
   - DOMAIN,3d.payten.com.tr
+  - DOMAIN-SUFFIX,3d.payten.com.tr
+
+  # GPay
   - DOMAIN,gpay.com.tr
   - DOMAIN-SUFFIX,gpay.com.tr
+
+  # Turgame and related services
   - DOMAIN,turgame.com
   - DOMAIN-SUFFIX,turgame.com
+
+  # Other specific domains
+  - DOMAIN,*.com.tr
+  - DOMAIN,www.paytr.com
+  - DOMAIN-SUFFIX,paytr.com
+  - DOMAIN-SUFFIX,com.tr
+  - DOMAIN-SUFFIX,tawk.to
+  - DOMAIN-SUFFIX,trendyol.com
+  - DOMAIN-SUFFIX,m.trendyol.com
+  - DOMAIN,pos.payby.me
+  - DOMAIN-SUFFIX,pos.payby.me
+  - DOMAIN,denizbank.com
+  - DOMAIN,*.denizbank.com
+  - DOMAIN,spos.denizbank.com
+  - DOMAIN-SUFFIX,denizbank.com
+  - DOMAIN-SUFFIX,spos.denizbank.com
