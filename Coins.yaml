@@ -1,12 +1,12 @@
 payload:
   # Coins
 
-  - DOMAIN,coinsph.zendesk.com,Proxy
-  - DOMAIN,k0eilw-gcdsdk.appsflyersdk.com,Proxy
-  - DOMAIN,k0eilw-inapps.appsflyersdk.com,Proxy
-  - DOMAIN,k0eilw-launches.appsflyersdk.com,Proxy
-  - DOMAIN,k0eilw-skadsdkless.appsflyersdk.com,Proxy
-  - DOMAIN,k0eilw-skadsdkless.appsflyersdk.com,Proxy
-  - DOMAIN-SUFFIX,coins.ph,Proxy
-  - DOMAIN-SUFFIX,coins.xyz,Proxy
-  - DOMAIN-SUFFIX,coinsapp.net,Proxy
+  - DOMAIN,coinsph.zendesk.com
+  - DOMAIN,k0eilw-gcdsdk.appsflyersdk.com
+  - DOMAIN,k0eilw-inapps.appsflyersdk.com
+  - DOMAIN,k0eilw-launches.appsflyersdk.com
+  - DOMAIN,k0eilw-skadsdkless.appsflyersdk.com
+  - DOMAIN,k0eilw-skadsdkless.appsflyersdk.com
+  - DOMAIN-SUFFIX,coins.ph
+  - DOMAIN-SUFFIX,coins.xyz
+  - DOMAIN-SUFFIX,coinsapp.net

@@ -2,145 +2,145 @@ payload:
   # Nigeria Bank
 
   # ALAT BY WEMA
-  - DOMAIN,apibox.alat.ng,Proxy
-  - DOMAIN,abujaralatsignalr.azurewebsites.net,Proxy
-  - DOMAIN-SUFFIX,alat.ng,Proxy
-  - DOMAIN-SUFFIX,altbank.ng,Proxy
-  - DOMAIN-KEYWORD,alat,Proxy
+  - DOMAIN,apibox.alat.ng
+  - DOMAIN,abujaralatsignalr.azurewebsites.net
+  - DOMAIN-SUFFIX,alat.ng
+  - DOMAIN-SUFFIX,altbank.ng
+  - DOMAIN-KEYWORD,alat
 
   # Access
-  - DOMAIN-SUFFIX,accessbankplc.com,Proxy
-  - DOMAIN-KEYWORD,accessbankplc,Proxy
+  - DOMAIN-SUFFIX,accessbankplc.com
+  - DOMAIN-KEYWORD,accessbankplc
 
   # BlinkCash
-  - DOMAIN-SUFFIX,blinkcash.no,Proxy
+  - DOMAIN-SUFFIX,blinkcash.no
 
   # Busha
-  - DOMAIN-SUFFIX,busha.team,Proxy
-  - DOMAIN-KEYWORD,busha,Proxy
+  - DOMAIN-SUFFIX,busha.team
+  - DOMAIN-KEYWORD,busha
 
   # Chipper Cash
-  - DOMAIN,compliance.chippercash.com,Proxy
-  - DOMAIN,auth.chippercash.com,Proxy
-  - DOMAIN,api.chippercash.com,Proxy
-  - DOMAIN-SUFFIX,chippercash.com,Proxy
-  - DOMAIN-SUFFIX,mobile-messenger.intercom.com,Proxy
-  - DOMAIN-KEYWORD,chippercash,Proxy
+  - DOMAIN,compliance.chippercash.com
+  - DOMAIN,auth.chippercash.com
+  - DOMAIN,api.chippercash.com
+  - DOMAIN-SUFFIX,chippercash.com
+  - DOMAIN-SUFFIX,mobile-messenger.intercom.com
+  - DOMAIN-KEYWORD,chippercash
 
   # Cabon
-  - DOMAIN,api.paylater.ng,Proxy
-  - DOMAIN,salesiq.zoho.com,Proxy
-  - DOMAIN,vts.zohopublic.com,Proxy
-  - DOMAIN-SUFFIX,paylater.ng,Proxy
-  - DOMAIN-SUFFIX,zoho.com,Proxy
-  - DOMAIN-SUFFIX,zohopublic.com,Proxy
+  - DOMAIN,api.paylater.ng
+  - DOMAIN,salesiq.zoho.com
+  - DOMAIN,vts.zohopublic.com
+  - DOMAIN-SUFFIX,paylater.ng
+  - DOMAIN-SUFFIX,zoho.com
+  - DOMAIN-SUFFIX,zohopublic.com
 
   # CashEx
-  - DOMAIN,www.cashex.app,Proxy
-  - DOMAIN,cashex-gateway-34bf7qxe.ue.gateway.dev,Proxy
-  - DOMAIN-SUFFIX,cashex.app,Proxy
-  - DOMAIN-KEYWORD,cashex,Proxy
+  - DOMAIN,www.cashex.app
+  - DOMAIN,cashex-gateway-34bf7qxe.ue.gateway.dev
+  - DOMAIN-SUFFIX,cashex.app
+  - DOMAIN-KEYWORD,cashex
 
   # Cardtonic
-  - DOMAIN-SUFFIX,cardtonic.com,Proxy
+  - DOMAIN-SUFFIX,cardtonic.com
 
   # Flutterwave
-  - DOMAIN-SUFFIX,flutterwave.com,Proxy
-  - DOMAIN-KEYWORD,flutterwave,Proxy
+  - DOMAIN-SUFFIX,flutterwave.com
+  - DOMAIN-KEYWORD,flutterwave
 
   # GT
-  - DOMAIN-SUFFIX,gtbank.com,Proxy
-  - DOMAIN-KEYWORD,gtbank,Proxy
+  - DOMAIN-SUFFIX,gtbank.com
+  - DOMAIN-KEYWORD,gtbank
 
   # Globus
-  - DOMAIN-SUFFIX,globusbank.com,Proxy
-  - DOMAIN-KEYWORD,globusbank,Proxy
+  - DOMAIN-SUFFIX,globusbank.com
+  - DOMAIN-KEYWORD,globusbank
 
   # Klasha
-  - DOMAIN-SUFFIX,kcookery.com,Proxy
+  - DOMAIN-SUFFIX,kcookery.com
 
   # Kredi
-  - DOMAIN-SUFFIX,lendsqr.com,Proxy
-  - DOMAIN-SUFFIX,obscudo.com,Proxy
+  - DOMAIN-SUFFIX,lendsqr.com
+  - DOMAIN-SUFFIX,obscudo.com
 
   # KUDA
-  - DOMAIN,retailapigateway.kuda.com,Proxy
-  - DOMAIN-SUFFIX,kuda.com,Proxy
-  - DOMAIN-SUFFIX,kudabank.com,Proxy
-  - DOMAIN-KEYWORD,kuda,Proxy
-  - DOMAIN-KEYWORD,kudabank,Proxy
+  - DOMAIN,retailapigateway.kuda.com
+  - DOMAIN-SUFFIX,kuda.com
+  - DOMAIN-SUFFIX,kudabank.com
+  - DOMAIN-KEYWORD,kuda
+  - DOMAIN-KEYWORD,kudabank
 
   # LOMA
-  - DOMAIN-SUFFIX,lomabank.com,Proxy
-  - DOMAIN-KEYWORD,lomabank,Proxy
+  - DOMAIN-SUFFIX,lomabank.com
+  - DOMAIN-KEYWORD,lomabank
 
   # Luno
-  - DOMAIN-SUFFIX,luno.com,Proxy
+  - DOMAIN-SUFFIX,luno.com
 
   # Moniepoint
-  - DOMAIN-SUFFIX,mab.console.teamapt.com,Proxy
-  - DOMAIN-SUFFIX,moniepoint.com,Proxy
+  - DOMAIN-SUFFIX,mab.console.teamapt.com
+  - DOMAIN-SUFFIX,moniepoint.com
 
   # NALA
-  - DOMAIN-SUFFIX,nala.ninja,Proxy
-  - DOMAIN-SUFFIX,nala-api.com,Proxy
+  - DOMAIN-SUFFIX,nala.ninja
+  - DOMAIN-SUFFIX,nala-api.com
 
   # Opay
-  - DOMAIN-SUFFIX,opayweb.com,Proxy
+  - DOMAIN-SUFFIX,opayweb.com
 
   # One Bank
-  - DOMAIN-SUFFIX,sterling.ng,Proxy
-  - DOMAIN-SUFFIX,netcoresmartech.com,Proxy
-  - DOMAIN-SUFFIX,onesignal.com,Proxy
+  - DOMAIN-SUFFIX,sterling.ng
+  - DOMAIN-SUFFIX,netcoresmartech.com
+  - DOMAIN-SUFFIX,onesignal.com
 
   # PocketApp
-  - DOMAIN,api.okhi.io,Proxy
-  - DOMAIN,pocketapp.com,Proxy
-  - DOMAIN,www.polarisbanklimited.com,Proxy
-  - DOMAIN-SUFFIX,okhi.io,Proxy
-  - DOMAIN-SUFFIX,pocketapp.com,Proxy
-  - DOMAIN-SUFFIX,polarisbanklimited.com,Proxy
-  - DOMAIN-KEYWORD,okhi,Proxy
-  - DOMAIN-KEYWORD,pocketapp,Proxy
-  - DOMAIN-KEYWORD,polarisbanklimited,Proxy
+  - DOMAIN,api.okhi.io
+  - DOMAIN,pocketapp.com
+  - DOMAIN,www.polarisbanklimited.com
+  - DOMAIN-SUFFIX,okhi.io
+  - DOMAIN-SUFFIX,pocketapp.com
+  - DOMAIN-SUFFIX,polarisbanklimited.com
+  - DOMAIN-KEYWORD,okhi
+  - DOMAIN-KEYWORD,pocketapp
+  - DOMAIN-KEYWORD,polarisbanklimited
 
   # Quidax
-  - DOMAIN,98fl44-gcdsdk.appsflyersdk.com,Proxy
-  - DOMAIN-SUFFIX,quidax.io,Proxy
-  - DOMAIN-KEYWORD,quidax,Proxy
+  - DOMAIN,98fl44-gcdsdk.appsflyersdk.com
+  - DOMAIN-SUFFIX,quidax.io
+  - DOMAIN-KEYWORD,quidax
 
   # Roqqu
-  - DOMAIN-SUFFIX,roqqupay.com,Proxy
+  - DOMAIN-SUFFIX,roqqupay.com
 
   # Remitano
-  - DOMAIN-SUFFIX,remitano.com,Proxy
-  - DOMAIN-SUFFIX,remitano.net,Proxy
+  - DOMAIN-SUFFIX,remitano.com
+  - DOMAIN-SUFFIX,remitano.net
 
   # Sterling
-  - DOMAIN-SUFFIX,sterling.ng,Proxy
-  - DOMAIN-KEYWORD,sterling,Proxy
-  - DOMAIN-KEYWORD,onebank,Proxy
+  - DOMAIN-SUFFIX,sterling.ng
+  - DOMAIN-KEYWORD,sterling
+  - DOMAIN-KEYWORD,onebank
 
   # Stateside Bank
-  - DOMAIN-SUFFIX,statesidebank.com,Proxy
+  - DOMAIN-SUFFIX,statesidebank.com
 
   # SparkleApp
-  - DOMAIN,sparkleapp.com,Proxy
-  - DOMAIN,apigateway.sparkleapp.in,Proxy
-  - DOMAIN-SUFFIX,sparkleapp.com,Proxy
-  - DOMAIN-SUFFIX,sparkleapp.in,Proxy
+  - DOMAIN,sparkleapp.com
+  - DOMAIN,apigateway.sparkleapp.in
+  - DOMAIN-SUFFIX,sparkleapp.com
+  - DOMAIN-SUFFIX,sparkleapp.in
 
   # Spenda
-  - DOMAIN-SUFFIX,spenda.africa,Proxy
-  - DOMAIN-KEYWORD,spenda,Proxy
+  - DOMAIN-SUFFIX,spenda.africa
+  - DOMAIN-KEYWORD,spenda
 
   # Titan
-  - DOMAIN-SUFFIX,titantrustbank.com,Proxy
-  - DOMAIN-KEYWORD,titantrustbank,Proxy
+  - DOMAIN-SUFFIX,titantrustbank.com
+  - DOMAIN-KEYWORD,titantrustbank
 
   # VBank
-  - DOMAIN-SUFFIX,vbank.ng,Proxy
-  - DOMAIN-SUFFIX,vfdbank.systems,Proxy
+  - DOMAIN-SUFFIX,vbank.ng
+  - DOMAIN-SUFFIX,vfdbank.systems
 
   # Wema
-  - DOMAIN-SUFFIX,wemabank.com,Proxy
+  - DOMAIN-SUFFIX,wemabank.com

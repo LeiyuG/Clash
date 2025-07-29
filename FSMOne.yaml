@@ -1,6 +1,6 @@
 payload:
   # > FSMOne
-  - DOMAIN-SUFFIX,fundsupermart.com,Proxy
-  - DOMAIN-SUFFIX,fsmone.com,Proxy
-  - DOMAIN-SUFFIX,fsmone.com.hk,Proxy
-  - DOMAIN-SUFFIX,fsmone.com.my,Proxy
+  - DOMAIN-SUFFIX,fundsupermart.com
+  - DOMAIN-SUFFIX,fsmone.com
+  - DOMAIN-SUFFIX,fsmone.com.hk
+  - DOMAIN-SUFFIX,fsmone.com.my

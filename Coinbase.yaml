@@ -1,10 +1,10 @@
 payload:
   # Coinbase
-  - DOMAIN,asset-metadata-service-production.s3.amazonaws.com,Proxy
-  - DOMAIN-SUFFIX,app-analytics-services.com,Proxy
-  - DOMAIN-SUFFIX,coinbase.com,Proxy
-  - DOMAIN-SUFFIX,coinbasecdn.net,Proxy
-  - DOMAIN-SUFFIX,sardine.ai,Proxy
-  - DOMAIN-SUFFIX,cb-device-intelligence.com,Proxy
-  - DOMAIN-SUFFIX,walletlink.org,Proxy
-  - DOMAIN-KEYWORD,coinbase,Proxy
+  - DOMAIN,asset-metadata-service-production.s3.amazonaws.com
+  - DOMAIN-SUFFIX,app-analytics-services.com
+  - DOMAIN-SUFFIX,coinbase.com
+  - DOMAIN-SUFFIX,coinbasecdn.net
+  - DOMAIN-SUFFIX,sardine.ai
+  - DOMAIN-SUFFIX,cb-device-intelligence.com
+  - DOMAIN-SUFFIX,walletlink.org
+  - DOMAIN-KEYWORD,coinbase

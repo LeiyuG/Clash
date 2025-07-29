@@ -1,16 +1,16 @@
 payload:
   # REMITLY
-  - DOMAIN,www.remitly.com,Proxy
-  - DOMAIN,passbook-api.remitly.io,Proxy
-  - DOMAIN,help.passbook.app,Proxy
-  - DOMAIN,analytics.plaid.com,Proxy
-  - DOMAIN,production.plaid.com,Proxy
-  - DOMAIN,secure.plaid.com,Proxy
-  - DOMAIN,cdn.plaid.com,Proxy
-  - DOMAIN,production.plaid.com,Proxy
-  - DOMAIN,production.plaid.com,Proxy
-  - DOMAIN-SUFFIX,remitly.com,Proxy
-  - DOMAIN-SUFFIX,remitly.io,Proxy
-  - DOMAIN-SUFFIX,passbook.app,Proxy
-  - DOMAIN-SUFFIX,plaid.com,Proxy
-  - DOMAIN-SUFFIX,salesforceliveagent.com,Proxy
+  - DOMAIN,www.remitly.com
+  - DOMAIN,passbook-api.remitly.io
+  - DOMAIN,help.passbook.app
+  - DOMAIN,analytics.plaid.com
+  - DOMAIN,production.plaid.com
+  - DOMAIN,secure.plaid.com
+  - DOMAIN,cdn.plaid.com
+  - DOMAIN,production.plaid.com
+  - DOMAIN,production.plaid.com
+  - DOMAIN-SUFFIX,remitly.com
+  - DOMAIN-SUFFIX,remitly.io
+  - DOMAIN-SUFFIX,passbook.app
+  - DOMAIN-SUFFIX,plaid.com
+  - DOMAIN-SUFFIX,salesforceliveagent.com

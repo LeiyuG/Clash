@@ -1,7 +1,7 @@
 payload:
-  - DOMAIN-SUFFIX,mexc.com,Proxy
-  - DOMAIN-SUFFIX,mexcsensors.com,Proxy
-  - DOMAIN-SUFFIX,gotoda.co,Proxy
-  - DOMAIN-SUFFIX,greentreeone.com,Proxy
-  - DOMAIN-SUFFIX,mocortech.com,Proxy
-  - DOMAIN-SUFFIX,365huo.xyz,Proxy
+  - DOMAIN-SUFFIX,mexc.com
+  - DOMAIN-SUFFIX,mexcsensors.com
+  - DOMAIN-SUFFIX,gotoda.co
+  - DOMAIN-SUFFIX,greentreeone.com
+  - DOMAIN-SUFFIX,mocortech.com
+  - DOMAIN-SUFFIX,365huo.xyz

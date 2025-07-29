@@ -1,4 +1,4 @@
 payload:
   # Bitfinex
-  - DOMAIN-SUFFIX,bitfinex.com,Proxy
-  - DOMAIN-KEYWORD,bitfinex,Proxy
+  - DOMAIN-SUFFIX,bitfinex.com
+  - DOMAIN-KEYWORD,bitfinex

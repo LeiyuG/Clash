@@ -1,5 +1,5 @@
 payload:
   # Neverless
 
-  - DOMAIN-SUFFIX,neverless.com,Proxy
-  - DOMAIN-KEYWORD,yivd8v,Proxy
+  - DOMAIN-SUFFIX,neverless.com
+  - DOMAIN-KEYWORD,yivd8v

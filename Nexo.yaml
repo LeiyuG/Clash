@@ -1,4 +1,4 @@
 payload:
   # Nexo
-  - DOMAIN-SUFFIX,nexo.com,Proxy
-  - DOMAIN-KEYWORD,nexo,Proxy
+  - DOMAIN-SUFFIX,nexo.com
+  - DOMAIN-KEYWORD,nexo

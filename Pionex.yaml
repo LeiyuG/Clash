@@ -1,6 +1,6 @@
 payload:
   # Pionex
-  - DOMAIN-SUFFIX,pionex.com,Proxy
-  - DOMAIN-SUFFIX,picolzh.com,Proxy
-  - DOMAIN-SUFFIX,picol.com,Proxy
-  - DOMAIN-SUFFIX,pioneerex.org,Proxy
+  - DOMAIN-SUFFIX,pionex.com
+  - DOMAIN-SUFFIX,picolzh.com
+  - DOMAIN-SUFFIX,picol.com
+  - DOMAIN-SUFFIX,pioneerex.org

@@ -1,9 +1,9 @@
 payload:
   # Backpack
 
-  - DOMAIN,u.expo.dev,Proxy
-  - DOMAIN-SUFFIX,backpack.app,Proxy
-  - DOMAIN-SUFFIX,backpack.exchange,Proxy
-  - DOMAIN-SUFFIX,workers.madlads.com,Proxy
-  - DOMAIN-KEYWORD,backpack,Proxy
-  - DOMAIN-KEYWORD,zk8wvm,Proxy
+  - DOMAIN,u.expo.dev
+  - DOMAIN-SUFFIX,backpack.app
+  - DOMAIN-SUFFIX,backpack.exchange
+  - DOMAIN-SUFFIX,workers.madlads.com
+  - DOMAIN-KEYWORD,backpack
+  - DOMAIN-KEYWORD,zk8wvm

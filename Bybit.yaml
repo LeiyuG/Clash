@@ -1,18 +1,18 @@
 payload:
   # Bybit
-  - DOMAIN,relay.walletconnect.com,Proxy
-  - DOMAIN-SUFFIX,bybit.biz,Proxy
-  - DOMAIN-SUFFIX,bybit.org,Proxy
-  - DOMAIN-SUFFIX,bybit.com,Proxy
-  - DOMAIN-SUFFIX,byd3c3.com,Proxy
-  - DOMAIN-SUFFIX,bybdc6.com,Proxy
-  - DOMAIN-SUFFIX,bybit.cloud,Proxy
-  - DOMAIN-SUFFIX,ada.support,Proxy
-  - DOMAIN-SUFFIX,byabcde.com,Proxy
-  - DOMAIN-SUFFIX,bitverse.zone,Proxy
-  - DOMAIN-SUFFIX,bybitglobal.com,Proxy
-  - DOMAIN-SUFFIX,bybit-global.com,Proxy
-  - DOMAIN-SUFFIX,byapps.net,Proxy
-  - DOMAIN-KEYWORD,bybit,Proxy
-  - DOMAIN-KEYWORD,bybitglobal,Proxy
-  - DOMAIN-KEYWORD,bybit-global,Proxy
+  - DOMAIN,relay.walletconnect.com
+  - DOMAIN-SUFFIX,bybit.biz
+  - DOMAIN-SUFFIX,bybit.org
+  - DOMAIN-SUFFIX,bybit.com
+  - DOMAIN-SUFFIX,byd3c3.com
+  - DOMAIN-SUFFIX,bybdc6.com
+  - DOMAIN-SUFFIX,bybit.cloud
+  - DOMAIN-SUFFIX,ada.support
+  - DOMAIN-SUFFIX,byabcde.com
+  - DOMAIN-SUFFIX,bitverse.zone
+  - DOMAIN-SUFFIX,bybitglobal.com
+  - DOMAIN-SUFFIX,bybit-global.com
+  - DOMAIN-SUFFIX,byapps.net
+  - DOMAIN-KEYWORD,bybit
+  - DOMAIN-KEYWORD,bybitglobal
+  - DOMAIN-KEYWORD,bybit-global
