@@ -1,0 +1,9 @@
+# Curve
+payload:
+- DOMAIN,v2f4qe8g9b.execute-api.eu-west-2.amazonaws.com,Proxy
+- DOMAIN,sdk.fra-01.braze.eu,Proxy
+- DOMAIN-SUFFIX,curve.app,Proxy
+- DOMAIN-SUFFIX,curve.com,Proxy
+- DOMAIN-SUFFIX,imaginecurve.com,Proxy
+- DOMAIN-KEYWORD,curve,Proxy
+- DOMAIN-KEYWORD,khhpzf,Proxy

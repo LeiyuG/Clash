@@ -1,0 +1,12 @@
+# Gate
+payload:
+- DOMAIN-SUFFIX,gate.ac,Proxy
+- DOMAIN-SUFFIX,gate.io,Proxy
+- DOMAIN-SUFFIX,gatexsecurity.com,Proxy
+- DOMAIN-SUFFIX,gatetrace.com,Proxy
+- DOMAIN-SUFFIX,gatedata.org,Proxy
+- DOMAIN-SUFFIX,gateio.services,Proxy
+- DOMAIN-SUFFIX,gateimg.com,Proxy
+- DOMAIN-SUFFIX,gateio.im,Proxy
+- DOMAIN-SUFFIX,gateio.live,Proxy
+- DOMAIN-KEYWORD,gateio,Proxy

@@ -1,0 +1,9 @@
+# Lemfi
+payload:
+- DOMAIN,lemfi.api.crowdin.com,Proxy
+- DOMAIN,distributions.crowdin.net,Proxy
+- DOMAIN-SUFFIX,lemfi.com,Proxy
+- DOMAIN-SUFFIX,lemonade.finance,Proxy
+- DOMAIN-KEYWORD,lemfi,Proxy
+- DOMAIN-KEYWORD,lemonade,Proxy
+- DOMAIN-KEYWORD,z5kgbu,Proxy

@@ -1,9 +1,13 @@
+# N26
 payload:
-  - DOMAIN,sdk.fra-02.braze.eu
-  - DOMAIN,featureassets.org
-  - DOMAIN,prodregistryv2.org
-  - DOMAIN-SUFFIX,featureassets.org
-  - DOMAIN-SUFFIX,prodregistryv2.org
-  - DOMAIN-SUFFIX,tech26.de
-  - DOMAIN-SUFFIX,number26.de
-  - DOMAIN-SUFFIX,n26.com
+- DOMAIN,n26-admedia.s3.eu-central-1.amazonaws.com,Proxy
+- DOMAIN,sdk.fra-02.braze.eu,Proxy
+- DOMAIN,featureassets.org,Proxy
+- DOMAIN,prodregistryv2.org,Proxy
+- DOMAIN,usercentrics.eu,Proxy
+- DOMAIN-SUFFIX,featureassets.org,Proxy
+- DOMAIN-SUFFIX,prodregistryv2.org,Proxy
+- DOMAIN-SUFFIX,tech26.de,Proxy
+- DOMAIN-SUFFIX,number26.de,Proxy
+- DOMAIN-SUFFIX,n26.com,Proxy
+- DOMAIN-KEYWORD,n26,Proxy

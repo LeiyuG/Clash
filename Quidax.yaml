@@ -1,0 +1,8 @@
+# Quidax
+payload:
+- DOMAIN,app.api-sec-gateway.cloud,Proxy
+- DOMAIN,98fl44-skadsdkless.appsflyersdk.com,Proxy
+- DOMAIN,98fl44-gcdsdk.appsflyersdk.com,Proxy
+- DOMAIN,98fl44-launches.appsflyersdk.com,Proxy
+- DOMAIN-SUFFIX,quidax.ng,Proxy
+- DOMAIN,quidax.zendesk.com,Proxy

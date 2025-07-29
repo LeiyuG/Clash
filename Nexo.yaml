@@ -1,0 +1,4 @@
+# Nexo
+payload:
+- DOMAIN-SUFFIX,nexo.com,Proxy
+- DOMAIN-KEYWORD,nexo,Proxy

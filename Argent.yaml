@@ -1,0 +1,6 @@
+# Argent
+payload:
+- DOMAIN,mainnet.infura.io,Proxy
+- DOMAIN-SUFFIX,argent-api.com,Proxy
+- DOMAIN-SUFFIX,argent.net,Proxy
+- DOMAIN-SUFFIX,argent.xyz,Proxy
