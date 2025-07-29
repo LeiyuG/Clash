@@ -1,21 +1,33 @@
-# Vodafone UK
 payload:
-- DOMAIN-KEYWORD,vodafoneuk,Proxy
-- DOMAIN-SUFFIX,vodafone.co.uk,Proxy
-- DOMAIN-SUFFIX,gcpsmapi.vodafone.com,Proxy
-- DOMAIN-SUFFIX,entsrv-uk.vodafone.com,Proxy
-- DOMAIN-SUFFIX,vodafone.com,Proxy
-- DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com,Proxy
-- DOMAIN-SUFFIX,vuk-gto.prod.ondemandconnectivity.com,Proxy
-- DOMAIN-SUFFIX,epdg.epc.mnc015.mcc234.pub.3gppnetwork.org,Proxy
-- DOMAIN-SUFFIX,ss.epdg.epc.mnc015.mcc234.pub.3gppnetwork.org,Proxy
-- DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc015.mcc234.pub.3gppnetwork.org,Proxy
-- DOMAIN-SUFFIX,epdg.epc.mnc007.mcc234.pub.3gppnetwork.org,Proxy
-- DOMAIN-SUFFIX,ss.epdg.epc.mnc007.mcc234.pub.3gppnetwork.org,Proxy
-- DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc007.mcc234.pub.3gppnetwork.org,Proxy
-- DOMAIN-SUFFIX,epdg.epc.mnc091.mcc235.pub.3gppnetwork.org,Proxy
-- DOMAIN-SUFFIX,ss.epdg.epc.mnc091.mcc235.pub.3gppnetwork.org,Proxy
-- DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc091.mcc235.pub.3gppnetwork.org,Proxy
-- DOMAIN-SUFFIX,epdg.epc.mnc092.mcc235.pub.3gppnetwork.org,Proxy
-- DOMAIN-SUFFIX,ss.epdg.epc.mnc092.mcc235.pub.3gppnetwork.org,Proxy
-- DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc092.mcc235.pub.3gppnetwork.org,Proxy
+  # Vodafone UK
+  - DOMAIN-KEYWORD,vodafoneuk,Proxy
+  - DOMAIN-SUFFIX,vodafone.co.uk,Proxy
+  - DOMAIN-SUFFIX,gcpsmapi.vodafone.com,Proxy
+  - DOMAIN-SUFFIX,entsrv-uk.vodafone.com,Proxy
+  - DOMAIN-SUFFIX,vodafone.com,Proxy
+
+  # Apple Check
+  - DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com,Proxy
+
+  # esim
+  - DOMAIN-SUFFIX,vuk-gto.prod.ondemandconnectivity.com,Proxy
+
+  # MCC 234 MNC 15
+  - DOMAIN-SUFFIX,epdg.epc.mnc015.mcc234.pub.3gppnetwork.org,Proxy
+  - DOMAIN-SUFFIX,ss.epdg.epc.mnc015.mcc234.pub.3gppnetwork.org,Proxy
+  - DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc015.mcc234.pub.3gppnetwork.org,Proxy
+
+  # MCC 234 MNC 07
+  - DOMAIN-SUFFIX,epdg.epc.mnc007.mcc234.pub.3gppnetwork.org,Proxy
+  - DOMAIN-SUFFIX,ss.epdg.epc.mnc007.mcc234.pub.3gppnetwork.org,Proxy
+  - DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc007.mcc234.pub.3gppnetwork.org,Proxy
+
+  # MCC 235 MNC 91
+  - DOMAIN-SUFFIX,epdg.epc.mnc091.mcc235.pub.3gppnetwork.org,Proxy
+  - DOMAIN-SUFFIX,ss.epdg.epc.mnc091.mcc235.pub.3gppnetwork.org,Proxy
+  - DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc091.mcc235.pub.3gppnetwork.org,Proxy
+
+  # MCC 235 MNC 92
+  - DOMAIN-SUFFIX,epdg.epc.mnc092.mcc235.pub.3gppnetwork.org,Proxy
+  - DOMAIN-SUFFIX,ss.epdg.epc.mnc092.mcc235.pub.3gppnetwork.org,Proxy
+  - DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc092.mcc235.pub.3gppnetwork.org,Proxy

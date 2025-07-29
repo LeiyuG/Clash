@@ -1,6 +1,6 @@
-# Bitget
 payload:
-- DOMAIN-SUFFIX,bitget.com,Proxy
-- DOMAIN-SUFFIX,bitgetapp.com,Proxy
-- DOMAIN-KEYWORD,bitget,Proxy
-- DOMAIN-KEYWORD,bitgetapp,Proxy
+  # Bitget
+  - DOMAIN-SUFFIX,bitget.com,Proxy
+  - DOMAIN-SUFFIX,bitgetapp.com,Proxy
+  - DOMAIN-KEYWORD,bitget,Proxy
+  - DOMAIN-KEYWORD,bitgetapp,Proxy

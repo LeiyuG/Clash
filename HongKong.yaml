@@ -1,49 +1,79 @@
-# HK bank
 payload:
-- DOMAIN,bank.za.group,Proxy
-- DOMAIN,cdn.zaticdn.com,Proxy
-- DOMAIN,alicdn.zaticdn.com,Proxy
-- DOMAIN,zaip-aic.za.group,Proxy
-- DOMAIN,athena.za.group,Proxy
-- DOMAIN,xman-xflow-sdk.za.group,Proxy
-- DOMAIN-SUFFIX,za.group,Proxy
-- DOMAIN-SUFFIX,zaticdn.com,Proxy
-- DOMAIN-SUFFIX,zajourney.com,Proxy
-- DOMAIN,mcxymt1vz-smy-nsfkm9-07xj6-8.device.marketingcloudapis.com,Proxy
-- DOMAIN-SUFFIX,livibank.com,Proxy
-- DOMAIN-KEYWORD,livibank,Proxy
-- DOMAIN-SUFFIX,bochk.com,Proxy
-- DOMAIN-SUFFIX,bochkonline.com,Proxy
-- DOMAIN,lptag.liveperson.net,Proxy
-- DOMAIN,collect-ap-northeast-1.tealiumiq.com,Proxy
-- DOMAIN,visitor-service-ap-northeast-1.tealiumiq.com,Proxy
-- DOMAIN,lpcdn.lpsnmedia.net,Proxy
-- DOMAIN,cdn.hsbc.com.hk,Proxy
-- DOMAIN,log-58144bf0.we-stats.com,Proxy
-- DOMAIN,mobile.eum-appdynamics.com,Proxy
-- DOMAIN,tags.tiqcdn.com,Proxy
-- DOMAIN,cdn.appdynamics.com,Proxy
-- DOMAIN,eapi.preferences.prod.ap-east-1.vam-hk.cloud1.vv1865.com,Proxy
-- DOMAIN-SUFFIX,hsbc.com.hk,Proxy
-- DOMAIN-SUFFIX,tealiumiq.com,Proxy
-- DOMAIN-KEYWORD,hsbc,Proxy
-- DOMAIN-SUFFIX,hangseng.com,Proxy
-- DOMAIN-KEYWORD,hangseng,Proxy
-- DOMAIN-SUFFIX,citibank.com.hk,Proxy
-- DOMAIN-SUFFIX,hkmu.edu.hk,Proxy
-- DOMAIN-KEYWORD,hkmu,Proxy
-- DOMAIN-SUFFIX,airstarbank.com,Proxy
-- DOMAIN-KEYWORD,airstarbank,Proxy
-- DOMAIN-SUFFIX,hk.bankcomm.com,Proxy
-- DOMAIN-SUFFIX,fusionbank.com,Proxy
-- DOMAIN-SUFFIX,prod-mox.com,Proxy
-- DOMAIN-SUFFIX,mox.com,Proxy
-- DOMAIN-KEYWORD,mox,Proxy
-- DOMAIN-SUFFIX,tapngo.com.hk,Proxy
-- DOMAIN-KEYWORD,tapngo,Proxy
-- DOMAIN-SUFFIX,sc.com,Proxy
-- DOMAIN-KEYWORD,standchartbank,Proxy
-- DOMAIN-SUFFIX,cncbinternational.com,Proxy
-- DOMAIN-KEYWORD,cncbinternational,Proxy
-- DOMAIN-SUFFIX,welab.bank,Proxy
-- DOMAIN-KEYWORD,welab,Proxy
+  # HK bank
+
+  # 众安银行
+  - DOMAIN,bank.za.group,Proxy
+  - DOMAIN,cdn.zaticdn.com,Proxy
+  - DOMAIN,alicdn.zaticdn.com,Proxy
+  - DOMAIN,zaip-aic.za.group,Proxy
+  - DOMAIN,athena.za.group,Proxy
+  - DOMAIN,xman-xflow-sdk.za.group,Proxy
+  - DOMAIN-SUFFIX,za.group,Proxy
+  - DOMAIN-SUFFIX,zaticdn.com,Proxy
+  - DOMAIN-SUFFIX,zajourney.com,Proxy
+
+  # 理慧银行
+  - DOMAIN,mcxymt1vz-smy-nsfkm9-07xj6-8.device.marketingcloudapis.com,Proxy
+  - DOMAIN-SUFFIX,livibank.com,Proxy
+  - DOMAIN-KEYWORD,livibank,Proxy
+
+  # 中银（香港）
+  - DOMAIN-SUFFIX,bochk.com,Proxy
+  - DOMAIN-SUFFIX,bochkonline.com,Proxy
+
+  # 滙丰香港
+  - DOMAIN,lptag.liveperson.net,Proxy
+  - DOMAIN,collect-ap-northeast-1.tealiumiq.com,Proxy
+  - DOMAIN,visitor-service-ap-northeast-1.tealiumiq.com,Proxy
+  - DOMAIN,lpcdn.lpsnmedia.net,Proxy
+  - DOMAIN,cdn.hsbc.com.hk,Proxy
+  - DOMAIN,log-58144bf0.we-stats.com,Proxy
+  - DOMAIN,mobile.eum-appdynamics.com,Proxy
+  - DOMAIN,tags.tiqcdn.com,Proxy
+  - DOMAIN,cdn.appdynamics.com,Proxy
+  - DOMAIN,eapi.preferences.prod.ap-east-1.vam-hk.cloud1.vv1865.com,Proxy
+  - DOMAIN-SUFFIX,hsbc.com.hk,Proxy
+  - DOMAIN-SUFFIX,tealiumiq.com,Proxy
+  - DOMAIN-KEYWORD,hsbc,Proxy
+
+  # 恒生香港
+  - DOMAIN-SUFFIX,hangseng.com,Proxy
+  - DOMAIN-KEYWORD,hangseng,Proxy
+
+  # 花旗香港
+  - DOMAIN-SUFFIX,citibank.com.hk,Proxy
+
+  # HKMU
+  - DOMAIN-SUFFIX,hkmu.edu.hk,Proxy
+  - DOMAIN-KEYWORD,hkmu,Proxy
+
+  # 天星银行
+  - DOMAIN-SUFFIX,airstarbank.com,Proxy
+  - DOMAIN-KEYWORD,airstarbank,Proxy
+
+  # 交银香港
+  - DOMAIN-SUFFIX,hk.bankcomm.com,Proxy
+
+  # 富邦香港
+  - DOMAIN-SUFFIX,fusionbank.com,Proxy
+
+  # MOX香港
+  - DOMAIN-SUFFIX,prod-mox.com,Proxy
+  - DOMAIN-SUFFIX,mox.com,Proxy
+  - DOMAIN-KEYWORD,mox,Proxy
+
+  # Tap N Go
+  - DOMAIN-SUFFIX,tapngo.com.hk,Proxy
+  - DOMAIN-KEYWORD,tapngo,Proxy
+
+  # 渣打银行
+  - DOMAIN-SUFFIX,sc.com,Proxy
+  - DOMAIN-KEYWORD,standchartbank,Proxy
+
+  # 信银国际
+  - DOMAIN-SUFFIX,cncbinternational.com,Proxy
+  - DOMAIN-KEYWORD,cncbinternational,Proxy
+
+  # 汇立银行
+  - DOMAIN-SUFFIX,welab.bank,Proxy
+  - DOMAIN-KEYWORD,welab,Proxy

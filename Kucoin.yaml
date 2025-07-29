@@ -1,8 +1,8 @@
-# Kucoin
 payload:
-- DOMAIN-SUFFIX,xcoinsystem.com,Proxy
-- DOMAIN-SUFFIX,kucoin.com,Proxy
-- DOMAIN-SUFFIX,kucoin.plus,Proxy
-- DOMAIN-KEYWORD,kucoin,Proxy
-- DOMAIN-KEYWORD,xcoinsystem,Proxy
-- DOMAIN,conversions.appsflyer.com,Proxy
+  # Kucoin
+  - DOMAIN-SUFFIX,xcoinsystem.com,Proxy
+  - DOMAIN-SUFFIX,kucoin.com,Proxy
+  - DOMAIN-SUFFIX,kucoin.plus,Proxy
+  - DOMAIN-KEYWORD,kucoin,Proxy
+  - DOMAIN-KEYWORD,xcoinsystem,Proxy
+  - DOMAIN,conversions.appsflyer.com,Proxy

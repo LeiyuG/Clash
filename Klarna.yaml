@@ -1,10 +1,11 @@
-# Klarna
 payload:
-- DOMAIN-SUFFIX,eu1.fullstory.com,Proxy
-- DOMAIN-SUFFIX,fullstory.com,Proxy
-- DOMAIN-SUFFIX,klarnaevt.com,Proxy
-- DOMAIN-SUFFIX,klarna.de,Proxy
-- DOMAIN-SUFFIX,klarnacdn.net,Proxy
-- DOMAIN-SUFFIX,klarna.app,Proxy
-- DOMAIN-SUFFIX,klarna.com,Proxy
-- DOMAIN-KEYWORD,klarna,Proxy
+  # Klarna
+
+  - DOMAIN-SUFFIX,eu1.fullstory.com,Proxy
+  - DOMAIN-SUFFIX,fullstory.com,Proxy
+  - DOMAIN-SUFFIX,klarnaevt.com,Proxy
+  - DOMAIN-SUFFIX,klarna.de,Proxy
+  - DOMAIN-SUFFIX,klarnacdn.net,Proxy
+  - DOMAIN-SUFFIX,klarna.app,Proxy
+  - DOMAIN-SUFFIX,klarna.com,Proxy
+  - DOMAIN-KEYWORD,klarna,Proxy

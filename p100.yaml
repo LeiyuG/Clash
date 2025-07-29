@@ -1,5 +1,6 @@
-# p100
 payload:
-- DOMAIN-SUFFIX,branch.io,Proxy
-- DOMAIN-SUFFIX,p100.io,Proxy
-- DOMAIN-KEYWORD,p100,Proxy
+  # p100
+
+  - DOMAIN-SUFFIX,branch.io,Proxy
+  - DOMAIN-SUFFIX,p100.io,Proxy
+  - DOMAIN-KEYWORD,p100,Proxy

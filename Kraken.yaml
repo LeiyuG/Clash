@@ -1,3 +1,4 @@
-# Kraken
 payload:
-- DOMAIN-SUFFIX,kraken.com,Proxy
+  # Kraken
+  - DOMAIN-SUFFIX,kraken.com,Proxy
+

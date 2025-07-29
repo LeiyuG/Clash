@@ -1,9 +1,11 @@
-# Maya
 payload:
-- DOMAIN,940c5ecf154a2dd669454fc022ed18283a8196d9.csftr.com,Proxy
-- DOMAIN-SUFFIX,cryptosrvc.com,Proxy
-- DOMAIN-SUFFIX,maya.ph,Proxy
-- DOMAIN-SUFFIX,paymaya.com,Proxy
-- DOMAIN-SUFFIX,mayabank.ph,Proxy
-- DOMAIN-KEYWORD,paymaya,Proxy
-- DOMAIN-KEYWORD,mayabank,Proxy
+  # Maya
+
+  - DOMAIN,940c5ecf154a2dd669454fc022ed18283a8196d9.csftr.com,Proxy
+  - DOMAIN-SUFFIX,cryptosrvc.com,Proxy
+  - DOMAIN-SUFFIX,maya.ph,Proxy
+  - DOMAIN-SUFFIX,paymaya.com,Proxy
+  - DOMAIN-SUFFIX,mayabank.ph,Proxy
+  - DOMAIN-KEYWORD,paymaya,Proxy
+  - DOMAIN-KEYWORD,mayabank,Proxy
+

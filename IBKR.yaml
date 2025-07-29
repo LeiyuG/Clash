@@ -1,8 +1,8 @@
-# 盈透证券
 payload:
-- DOMAIN-SUFFIX,ibllc.com,Proxy
-- DOMAIN-SUFFIX,ibkr.com,Proxy
-- DOMAIN-SUFFIX,interactivebrokers.com.hk,Proxy
-- DOMAIN-SUFFIX,interactivebrokers.com,Proxy
-- DOMAIN-KEYWORD,interactivebrokers,Proxy
-- DOMAIN-KEYWORD,ibkr,Proxy
+  # 盈透证券
+  - DOMAIN-SUFFIX,ibllc.com,Proxy
+  - DOMAIN-SUFFIX,ibkr.com,Proxy
+  - DOMAIN-SUFFIX,interactivebrokers.com.hk,Proxy
+  - DOMAIN-SUFFIX,interactivebrokers.com,Proxy
+  - DOMAIN-KEYWORD,interactivebrokers,Proxy
+  - DOMAIN-KEYWORD,ibkr,Proxy

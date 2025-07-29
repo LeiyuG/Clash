@@ -1,16 +1,17 @@
-# Blizzard
 payload:
-- DOMAIN,blizzard-api.arkoselabs.com,Proxy
-- DOMAIN,blz-contentstack-assets.akamaized.net,Proxy
-- DOMAIN,blz-contentstack-images.akamaized.net,Proxy
-- DOMAIN,bnetaccount.akamaized.net,Proxy
-- DOMAIN,blzddist1-a.akamaihd.net,Proxy
-- DOMAIN,blzprofile.akamaized.net,Proxy
-- DOMAIN,bnetstorefront.akamaized.net,Proxy
-- DOMAIN,bnetcheckoutbkp.akamaized.net,Proxy
-- DOMAIN,a8270235338.cdn.optimizely.com,Proxy
-- DOMAIN,sdk.iad-03.braze.com,Proxy
-- DOMAIN,d1yyu14twbo3rh.cloudfront.net,Proxy
-- DOMAIN-SUFFIX,blizzard.com,Proxy
-- DOMAIN-SUFFIX,battle.net,Proxy
-- DOMAIN-SUFFIX,baseui.akamaized.net,Proxy
+  # Blizzard
+
+  - DOMAIN,blizzard-api.arkoselabs.com,Proxy
+  - DOMAIN,blz-contentstack-assets.akamaized.net,Proxy
+  - DOMAIN,blz-contentstack-images.akamaized.net,Proxy
+  - DOMAIN,bnetaccount.akamaized.net,Proxy
+  - DOMAIN,blzddist1-a.akamaihd.net,Proxy
+  - DOMAIN,blzprofile.akamaized.net,Proxy
+  - DOMAIN,bnetstorefront.akamaized.net,Proxy
+  - DOMAIN,bnetcheckoutbkp.akamaized.net,Proxy
+  - DOMAIN,a8270235338.cdn.optimizely.com,Proxy
+  - DOMAIN,sdk.iad-03.braze.com,Proxy
+  - DOMAIN,d1yyu14twbo3rh.cloudfront.net,Proxy
+  - DOMAIN-SUFFIX,blizzard.com,Proxy
+  - DOMAIN-SUFFIX,battle.net,Proxy
+  - DOMAIN-SUFFIX,baseui.akamaized.net,Proxy

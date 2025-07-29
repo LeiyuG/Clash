@@ -1,7 +1,8 @@
-# 新加坡益丰集团 iFast 英国
 payload:
-- DOMAIN,secure.fundsupermart.com,Proxy
-- DOMAIN,secure.fundsupermart.com,Proxy
-- DOMAIN-SUFFIX,ifastgb.com,Proxy
-- DOMAIN-SUFFIX,ifastcorp.com,Proxy
-- DOMAIN-KEYWORD,ifastgb,Proxy
+  # 新加坡益丰集团 iFast 英国
+
+  - DOMAIN,secure.fundsupermart.com,Proxy
+  - DOMAIN,secure.fundsupermart.com,Proxy
+  - DOMAIN-SUFFIX,ifastgb.com,Proxy
+  - DOMAIN-SUFFIX,ifastcorp.com,Proxy
+  - DOMAIN-KEYWORD,ifastgb,Proxy

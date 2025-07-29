@@ -1,24 +1,24 @@
-# HTX
 payload:
-- DOMAIN-SUFFIX,htx.com,Proxy
-- DOMAIN-SUFFIX,hbabit.com,Proxy
-- DOMAIN-SUFFIX,hbfile.net,Proxy
-- DOMAIN-SUFFIX,huobi.com,Proxy
-- DOMAIN-SUFFIX,huobi.me,Proxy
-- DOMAIN-SUFFIX,huobi.pro,Proxy
-- DOMAIN-SUFFIX,huobi.sc,Proxy
-- DOMAIN-SUFFIX,huobiasia.vip,Proxy
-- DOMAIN-SUFFIX,huobigroup.com,Proxy
-- DOMAIN-SUFFIX,huobitoken.com,Proxy
-- DOMAIN-SUFFIX,heco-scan.com,Proxy
-- DOMAIN-SUFFIX,hecoview.com,Proxy
-- DOMAIN-SUFFIX,hbfile.net,Proxy
-- DOMAIN-SUFFIX,huobi.br.com,Proxy
-- DOMAIN-SUFFIX,bitderiv.com,Proxy
-- DOMAIN-SUFFIX,hecochain.com,Proxy
-- DOMAIN-SUFFIX,huobi.ws,Proxy
-- DOMAIN-SUFFIX,huobi.ug,Proxy
-- DOMAIN-SUFFIX,huobi.co.ma,Proxy
-- DOMAIN-SUFFIX,huobi.br.com,Proxy
-- DOMAIN-KEYWORD,huobi,Proxy
-- DOMAIN-KEYWORD,hbfile,Proxy
+  # HTX
+  - DOMAIN-SUFFIX,htx.com,Proxy
+  - DOMAIN-SUFFIX,hbabit.com,Proxy
+  - DOMAIN-SUFFIX,hbfile.net,Proxy
+  - DOMAIN-SUFFIX,huobi.com,Proxy
+  - DOMAIN-SUFFIX,huobi.me,Proxy
+  - DOMAIN-SUFFIX,huobi.pro,Proxy
+  - DOMAIN-SUFFIX,huobi.sc,Proxy
+  - DOMAIN-SUFFIX,huobiasia.vip,Proxy
+  - DOMAIN-SUFFIX,huobigroup.com,Proxy
+  - DOMAIN-SUFFIX,huobitoken.com,Proxy
+  - DOMAIN-SUFFIX,heco-scan.com,Proxy
+  - DOMAIN-SUFFIX,hecoview.com,Proxy
+  - DOMAIN-SUFFIX,hbfile.net,Proxy
+  - DOMAIN-SUFFIX,huobi.br.com,Proxy
+  - DOMAIN-SUFFIX,bitderiv.com,Proxy
+  - DOMAIN-SUFFIX,hecochain.com,Proxy
+  - DOMAIN-SUFFIX,huobi.ws,Proxy
+  - DOMAIN-SUFFIX,huobi.ug,Proxy
+  - DOMAIN-SUFFIX,huobi.co.ma,Proxy
+  - DOMAIN-SUFFIX,huobi.br.com,Proxy
+  - DOMAIN-KEYWORD,huobi,Proxy
+  - DOMAIN-KEYWORD,hbfile,Proxy
