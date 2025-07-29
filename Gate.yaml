@@ -1,5 +1,6 @@
 payload:
   # Gate
+
   - DOMAIN-SUFFIX,gate.ac
   - DOMAIN-SUFFIX,gate.io
   - DOMAIN-SUFFIX,gatexsecurity.com
