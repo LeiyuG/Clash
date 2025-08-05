@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ozan.com
   - DOMAIN-KEYWORD,ozan
 
+  # Oyunfor
+  - DOMAIN-SUFFIX,oyunfor.com
+
   # Paycell
   - DOMAIN-SUFFIX,paycell.com.tr
 
