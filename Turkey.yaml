@@ -1,4 +1,6 @@
 payload:
+  # Turkey Service
+
   # Ozan
   - DOMAIN-SUFFIX,ozan.com
   - DOMAIN-KEYWORD,ozan
@@ -105,6 +107,12 @@ payload:
   # Turgame and related services
   - DOMAIN,turgame.com
   - DOMAIN-SUFFIX,turgame.com
+
+  # Epic
+  - DOMAIN-SUFFIX,razer.com
+
+  # Gaijin
+  - DOMAIN-SUFFIX,gaijin.net
 
   # Other specific domains
   - DOMAIN,*.com.tr
