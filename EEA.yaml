@@ -60,6 +60,8 @@ payload:
   - DOMAIN,qz2jk2-skadsdkless.appsflyersdk.com
   - DOMAIN-SUFFIX,paysend.com
   - DOMAIN-SUFFIX,paysend.io
+  - DOMAIN-SUFFIX,yourpaysend.com
+  - DOMAIN-KEYWORD,paysend
 
   # Sendwave
   - DOMAIN-SUFFIX,sendwave.com
