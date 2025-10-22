@@ -1,6 +1,7 @@
 payload:
   # 渣打银行
 
+  - DOMAIN,marketing.online.standardchartered.com
   - DOMAIN-SUFFIX,sc.com
   - DOMAIN-SUFFIX,standardchartered.com.cn
   - DOMAIN-SUFFIX,standardchartered.com
