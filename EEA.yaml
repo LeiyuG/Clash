@@ -104,7 +104,7 @@ payload:
 
   # ZEN
   - DOMAIN-SUFFIX,zen.com
-  - DOMAIN-SUFFIX,zencom.zendesk.com
+  - DOMAIN-SUFFIX,zendesk.com
 
   # API
   - DOMAIN,api2.branch.io
