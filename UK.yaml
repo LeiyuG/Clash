@@ -76,6 +76,9 @@ payload:
   # Worldremit
   - DOMAIN-SUFFIX,worldremit.com
 
+  # Yonder
+  - DOMAIN-SUFFIX,yondercard.com
+
   # Zilch
   - DOMAIN-SUFFIX,zilch.com
   - DOMAIN-SUFFIX,payzilch.com
