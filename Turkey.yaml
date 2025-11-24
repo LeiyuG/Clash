@@ -23,6 +23,9 @@ payload:
   - DOMAIN-SUFFIX,moneytolia.com
   - DOMAIN-KEYWORD,moneytolia
 
+  # Moka
+  - DOMAIN-SUFFIX,mokaunited.com
+
   # Oyunfor and related domains
   - DOMAIN-SUFFIX,oyunfor.com
 
@@ -70,6 +73,9 @@ payload:
   # Sipay
   - DOMAIN-SUFFIX,walletgate.io
   - DOMAIN-KEYWORD,sipay
+
+  # S Wallet
+  - DOMAIN,samsung-wallet.mokaunited.com
 
   # Uption
   - DOMAIN,analytics.tr.adjust.com
