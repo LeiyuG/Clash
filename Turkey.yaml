@@ -21,8 +21,6 @@ payload:
 
   # Hadi
   - DOMAIN,app.tr.adjust.com
-  - DOMAIN-SUFFIX,tomdigital.com.tr
-  - DOMAIN-SUFFIX,tombank.com.tr
   - DOMAIN-SUFFIX,tombank.com.tr
   - DOMAIN-SUFFIX,tomdigital.com.tr
   - DOMAIN-KEYWORD,tombank
