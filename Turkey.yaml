@@ -182,6 +182,10 @@ payload:
   - DOMAIN-SUFFIX,netmera.com
   - DOMAIN-SUFFIX,aktifbank.com.tr
 
+  # Vodafone Pay
+  - DOMAIN,vodafonetr.sc.omtrdc.net
+  - DOMAIN,vpay.vodafone.com.tr
+
   # Verified by Visa 3D Secure
   - DOMAIN,aacsw.3ds.verifiedbyvisa.com
   - DOMAIN-SUFFIX,aacsw.3ds.verifiedbyvisa.com
