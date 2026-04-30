@@ -76,6 +76,7 @@ payload:
 
   # Paysend
   - DOMAIN,qz2jk2-skadsdkless.appsflyersdk.com
+  - DOMAIN,ota.lokalise.com
   - DOMAIN-SUFFIX,paysend.com
   - DOMAIN-SUFFIX,paysend.io
   - DOMAIN-SUFFIX,yourpaysend.com
