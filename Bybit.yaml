@@ -29,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,bitverse.zone
 
   # --- Keywords ---
+  - DOMAIN-KEYWORD,bybit
   - DOMAIN-KEYWORD,bybitglobal
   - DOMAIN-KEYWORD,bybit-global
 
