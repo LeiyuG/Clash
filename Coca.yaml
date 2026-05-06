@@ -1,5 +1,6 @@
 payload:
   # Coca
 
-  - DOMAIN-SUFFIX,ipregistry.co
   - DOMAIN-SUFFIX,coca.xyz
+  - DOMAIN-SUFFIX,wirexapp.com
+  - DOMAIN-SUFFIX,wirex.app.link
