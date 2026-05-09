@@ -1,0 +1,89 @@
+payload:
+  # > 4gtv
+  - DOMAIN,ntdofifreepc.akamaized.net
+  - DOMAIN,ntdofifreepocpc.akamaized.net
+  - DOMAIN,ofissaifreepc.akamaized.net
+  - DOMAIN-SUFFIX,litv.tv
+  - DOMAIN-SUFFIX,ofiii.com
+  - DOMAIN-SUFFIX,4gtv.tv
+  - DOMAIN-SUFFIX,cdn.hinet.net
+  - DOMAIN-SUFFIX,ott.hinet.net
+  - DOMAIN-SUFFIX,nmrodam.com
+
+  # > Bahamut
+  - DOMAIN-SUFFIX,bahamut.com.tw
+  - DOMAIN-SUFFIX,gamer.com.tw
+  - DOMAIN,gamer-cds.cdn.hinet.net
+  - DOMAIN,gamer2-cds.cdn.hinet.net
+
+  # > CATCHPLAY+
+  - DOMAIN-SUFFIX,catchplay.com
+  - DOMAIN,asiaplay-origin.s3.amazonaws.com
+  - DOMAIN,tra-ww000-cp.akamaized.net
+  - DOMAIN,ols-ww000-cp.akamaized.net
+  - DOMAIN,ols-ww100-cp.akamaized.net
+  - DOMAIN,dkfhw9rzsr80z.cloudfront.net
+
+  # > friDay
+  - DOMAIN-SUFFIX,friday.tw
+  - DOMAIN-SUFFIX,fridaylogger.com
+  - DOMAIN-SUFFIX,svc.litv.tv
+  - DOMAIN,aka01p.akamaized.net
+  - DOMAIN,aka02p.akamaized.net
+  - DOMAIN,aka36p.akamaized.net
+
+  # > HBO GO Asia
+  - DOMAIN-KEYWORD,hbogoasia
+  - DOMAIN-SUFFIX,hboasia.com
+  - DOMAIN-SUFFIX,hbogoasia.com
+  - DOMAIN,hbolb.onwardsmg.com
+  - DOMAIN,hbounify-prod.evergent.com
+  - DOMAIN,dai3fd1oh325y.cloudfront.net
+
+  # > iQIYI Intl
+  - DOMAIN-SUFFIX,iq.com
+  - DOMAIN-SUFFIX,intl.iqiyi.com
+  - DOMAIN,intl-rcd.iqiyi.com
+  - DOMAIN,intl-im-hist-api.iqiyi.com
+  - DOMAIN,intl-subscription.iqiyi.com
+  - DOMAIN,msg-intl.qy.net
+  - DOMAIN,ip.geo.iqiyi.com
+  - DOMAIN,akcdnoversea.inter.71edge.com
+  - DOMAIN,akmcdnoversea.inter.iqiyi.com
+  - DOMAIN,akmcdnoversea.inter.ptqy.gitv.tv
+  - DOMAIN,chuangcachecdnoversea.inter.iqiyi.com
+  - DOMAIN,chuangcachecdnoversea.inter.ptqy.gitv.tv
+  - DOMAIN,akmcdnoversea-tw.inter.iqiyi.com
+  - DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
+  - DOMAIN,chuangcachecdnoversea-tw.inter.iqiyi.com
+  - DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
+  - DOMAIN-KEYWORD,akmcdnoverse
+  - DOMAIN-KEYWORD,chuangcachecdnoversea
+
+  # > KKBOX
+  - DOMAIN-SUFFIX,kkbox.com
+  - DOMAIN-SUFFIX,kkbox.com.tw
+  - DOMAIN-SUFFIX,kfs.io
+
+  # > KKTV
+  - DOMAIN-SUFFIX,kktv.me
+  - DOMAIN-SUFFIX,kktv.com.tw
+  - DOMAIN,kktv-theater.kk.stream
+  - DOMAIN,theater-kktv.cdn.hinet.net
+
+  # > LINE TV
+  - DOMAIN-SUFFIX,linetv.link
+  - DOMAIN-SUFFIX,linetv.tw
+  - DOMAIN-SUFFIX,line-scdn.net
+  - DOMAIN,d3c7rimkq79yfu.cloudfront.net
+  - DOMAIN,d17lx9ucc6k9fc.cloudfront.net
+  - DOMAIN,kinesis.us-east-1.amazonaws.com
+
+  # > myVideo
+  - DOMAIN-SUFFIX,myvideo.net.tw
+  - DOMAIN-SUFFIX,catch.net.tw
+  - DOMAIN,applemediaservice.keydelivery.southeastasia.media.azure.net
+  - DOMAIN,akamaiendpoint-applemediaservice-aase.streaming.media.azure.net
+
+  # > Readmoo
+  - DOMAIN-SUFFIX,readmoo.com
