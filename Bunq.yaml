@@ -1,0 +1,7 @@
+payload:
+  #Bunq
+
+  - DOMAIN-SUFFIX,bunq.me
+  - DOMAIN-SUFFIX,bunq.com
+  - DOMAIN-SUFFIX,eu.sardine.ai
+  - DOMAIN-SUFFIX,ota.lokalise.com
